@@ -7,3 +7,5 @@
     python3     
 ## Use:-
     Double click on file.
+## Note:-
+    Try importing only .txt or .csv files.
